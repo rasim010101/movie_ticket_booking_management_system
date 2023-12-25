@@ -1,6 +1,12 @@
 Movie Ticket Booking System: Readme
 Welcome to the Movie Ticket Booking System! This is a project for booking movie tickets online, providing a convenient and user-friendly experience for both film enthusiasts and theatre owners.
 
+Group members: Rasim Arapov, Nur Islam Kubanychbekov
+
+Rasim made the Dashboard part, database, and CSS
+
+Nurislam made the presentation, sign up/sign in parts
+
 Features:
 
 Browse movies: Easily search for movies by title, genre, release date, or theatre location.
